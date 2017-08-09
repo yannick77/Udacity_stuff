@@ -1,0 +1,50 @@
+*{
+	border: 1px solid red !important;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.col-3{
+	width: 25%
+}
+.col-4{
+	width: 33.33%;
+}
+.col-6{
+	width: 50%;
+}
+
+.col-12{
+	width: 100%
+}
+.logo{
+    margin-top: 10%;
+}
+.row{
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: 20px;
+	width: 100%
+}
+.grid{
+	margin: 0 auto;
+	width: 100%
+	max-width: 1200px;
+}
+body{
+	font-family: 'Lato', sans-serif;
+	color: #747784;
+	font-weight: 300;
+}
+
+.name {
+	padding-left: 40%;
+	
+}
+.title{
+	padding-left: 50%;
+}

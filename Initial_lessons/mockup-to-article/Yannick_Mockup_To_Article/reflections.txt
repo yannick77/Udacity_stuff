@@ -1,0 +1,22 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+The new skills I have picked up include usage of new tags such as <figure>, <sup>,<s> and <hr>. Knowledge of the tree structure of html is also something I have picked up.
+
+I have found the lessons and exercises pretty easy so far, perhaps because I have "tried" my hands at HTML before, so I found it a little easier to grasp.
+
+The one thing I have found difficult is deciding which tag to use when there are options. For example;
+  * <b> vs <strong>
+  * <s> vs <del>
+ I haven't really got my head around some tags having semantic usage;
+
+ Well, I haven't had any exercises that have banged up my head so far, but when I have come across tags I'm not familiar with, I have looked them up on the MDN element reference,
+ I have also used google and stackoverflow especially when deciding what tag to use when there are options, for example i learnt that <strike> was depreciated on stackoverflow.
+ That is the problem solving strategy I have employed so far.
